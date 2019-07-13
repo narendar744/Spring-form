@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"com.spring5.controller","l":"HelloWorldController"},{"p":"com.spring5.controller","l":"HomeController"},{"p":"com.spring5.controller","l":"TestController"}]
